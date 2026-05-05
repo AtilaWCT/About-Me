@@ -15,5 +15,5 @@ LinkedIn: https://www.linkedin.com/in/atila-wundrack-7926a2408/overlay/contact-i
 💻 Amante de computadores e cultura hacker
 
 ---
-Estou aprendendo:
+## Estou aprendendo:
 Linguaguem de programação C | Organização e Arquitetura de computadores | Eletrônica | Fundamentos da Engenharia
