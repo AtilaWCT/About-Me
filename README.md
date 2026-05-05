@@ -9,6 +9,8 @@ LinkedIn: https://www.linkedin.com/in/atila-wundrack-7926a2408/overlay/contact-i
 
 
 🎓 Estudante de Engenharia da Computação (1/8)
+
 🌍 Falante de Português (Nativo) | Inglês (Avançado/C1) 🇺🇸
+
 💻 Amante de computadores 
 
