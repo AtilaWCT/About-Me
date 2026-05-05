@@ -13,4 +13,7 @@ LinkedIn: https://www.linkedin.com/in/atila-wundrack-7926a2408/overlay/contact-i
 🌍 Falante de Português (Nativo) | Inglês (Avançado/C1) 🇺🇸
 
 💻 Amante de computadores e cultura hacker
+
 ---
+Estou aprendendo:
+Linguaguem de programação C | Organização e Arquitetura de computadores | Eletrônica | Fundamentos da Engenharia
