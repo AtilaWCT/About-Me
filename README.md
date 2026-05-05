@@ -7,6 +7,7 @@ Currículo: https://docs.google.com/document/d/1oc-sTrFRKpVhTOG0HXy2ceRP2EOC0n0g
 
 LinkedIn: https://www.linkedin.com/in/atila-wundrack-7926a2408/overlay/contact-info/ 
 
+## Um pouco de mim
 ---
 🎓 Estudante de Engenharia da Computação (1/8)
 
