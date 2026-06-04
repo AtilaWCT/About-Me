@@ -1,6 +1,6 @@
 # 🚀 PortfolioHUB — Átila WCT
 
-Para o desenvolvimento e entrega final do meu bootcamp, apresento o **PortfolioHUB**, uma plataforma centralizada para gerenciar, exibir e documentar meus projetos e evolução técnica. Este repositório funciona como o núcleo de identidade e central de segurança do projeto, integrado com inteligência artificial.
+Meu linkedin: https://www.linkedin.com/in/atila-wundrack-7926a2408/ 
 
 ---
 
